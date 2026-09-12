@@ -1,0 +1,14 @@
+{
+  "appId": "com.tallyCounter.app",
+  "appName": "Tally Counter",
+  "webDir": ".",
+  "server": {
+    "androidScheme": "https"
+  },
+  "android": {
+    "useLegacyBuildTools": false
+  },
+  "ios": {
+    "contentInset": "automatic"
+  }
+}
